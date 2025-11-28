@@ -43,13 +43,9 @@ h2{
 .frente{position:relative;
         margin-left:800px;
         font-size:30px;
-        margin-bottom: 700px;}
+        margin-bottom: 700px;
+        background:#bb0b00;
+        border-radius:30px;
+    color:#ffffff;}
 
-button{ position:relative;
-margin-bottom:30px;
-font-size:23px;
-padding:10px;
-background:#f3ef09;
-border:none;
-border-radius: 30px;}
 
