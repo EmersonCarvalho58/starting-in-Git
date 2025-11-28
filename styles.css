@@ -13,7 +13,7 @@ h1{
          font-size:80px;
 }
 h2{ 
-    color:#7fff00;
+    color:#b1b4af;
     position :relative;
     margin-left: 150px;
     margin-top: 150px;
@@ -21,8 +21,8 @@ h2{
 
     ul{
         position:relative;
-        margin-left:800px;
-        margin-top:300px;
+        margin-left:100px;
+        margin-top:200px;
         Font-size:30px;
     }
     .legal{ color:blue;
@@ -34,20 +34,22 @@ h2{
     p{
         margin-left:100px;
     }
-    img{ position absolute;
-         margin-top:-700px;
+    img{ position relative;
+         margin-top:-1359px;
+         margin-left:1352px;
+         margin-bottom:300px;
 }
 
 .frente{position:relative;
         margin-left:800px;
         font-size:30px;
-        margin-top: 100px;}
+        margin-bottom: 700px;}
 
 button{ position:relative;
-margin-left:30px;
+margin-bottom:30px;
 font-size:23px;
-padding:14px;
+padding:10px;
 background:#f3ef09;
 border:none;
-border-radius: 9;}
+border-radius: 30px;}
 
