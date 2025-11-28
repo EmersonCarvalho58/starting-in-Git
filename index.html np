@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?
+    family=Rubik:ital,wght@0,300..900;1,300..900&display=swap" rel="stylesheet">
+    <title>Nova Etapa</title>
+</head>
+        <body>
+                        <h1>Criar Nova Etapa</h1>
+
+
+                        <h2>Firme no Aprendizado</h2>
+        <ul>
+                            <li class="legal">Atenção aos ensinamentos</li>
+                                   <p>Errais em não conhecer as ecrituras nem o poder de DEUS mt 22:29</p>                         
+                            <li class="legal">Lembrando do lema do Remador</li>
+                                   <p>E se alguem tambem milita,não é coroado se não militar legitimamente 2Tm 2:5</p>
+                            <li class="legal">Persistência e Dedicação</li>
+                                   <p>O preguiçoso deseja e nada tem, mas a alma do diligente se farta pv 13:4</p>
+                            <li class="legal">Lembrando da necessidade do Inglês</li>
+                            <p>O coração do entendido adquire conhecimento, e o ouvido dos sábios busca a sabedoria pv 18:15</p>
+                            <li class="legal">Crendo na Provisão Divina</li>
+                            <p> O meu Deus, porém, segundo as suas riquezas, suprirá todas as vossas necessidades em gloria, por Jesus Cristo Fp 4:19
+
+                            </p>
+        </ul>
+       
+                            <img src="./Illustration-3-3.png" alt="ilustração do remador">
+
+        <button> 
+                Estamos Aqui
+        </button>
+        <br>
+
+         <a href="https://www.renner.org" target="_blank" class="frente"> Biblia Aqui</a>
+     
+
+
+    
+</body>
+</html>
